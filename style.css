@@ -1,0 +1,18 @@
+body {
+	background-image: url("construction.jpg");
+	text-align: center;
+	
+	transform: translateY(120%);
+}
+
+h1 {
+	color: white;
+	font-family: Verdana;
+	font-size: 72px;
+}
+
+h2 {
+	color: white;
+	font-family: Roboto;
+	font-size: 48px;
+}
